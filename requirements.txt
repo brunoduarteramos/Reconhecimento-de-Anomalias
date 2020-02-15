@@ -1,0 +1,5 @@
+tensorflow==1.14
+pytorch torchvision cpuonly -c pytorch
+seaborn==0.9.0
+tensorboardX==1.9
+numpy==1.16.5
